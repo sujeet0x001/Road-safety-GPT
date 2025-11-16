@@ -394,8 +394,6 @@ Check backend status.
 }
 ```
 
-For complete API documentation, see [docs/API_REFERENCE.md](docs/API_REFERENCE.md)
-
 ---
 
 ## 🎓 How It Works
